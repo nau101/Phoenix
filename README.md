@@ -1,3 +1,3 @@
-# Phoexnix Hello 
+# Phoenix Hello 
 
 Elixir Phoenix app
